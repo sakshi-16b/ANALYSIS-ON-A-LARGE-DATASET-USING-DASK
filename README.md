@@ -10,3 +10,16 @@
 *Duration*: 4 Weeks
 
 *Mentor Name*: Neela Santosh
+
+
+#Features:
+1] Scalable Data Loading: Ingests large CSV datasets using Dask DataFrames.
+2] Efficient Preprocessing: Handles missing values and prepares data for analysis.
+
+
+#Applicable for :
+
+*Transportation & Logistics: Optimizing routes, managing traffic, and improving delivery times.
+*Financial Services: Fraud detection, risk assessment, and market analysis.
+*E-commerce & Retail: Understanding customer behavior, inventory management, and personalized recommendations.
+*Healthcare: Analyzing patient data, clinical trials, and genomic sequences.
