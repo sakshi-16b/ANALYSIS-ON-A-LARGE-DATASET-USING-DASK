@@ -23,3 +23,8 @@
 *Financial Services: Fraud detection, risk assessment, and market analysis.
 *E-commerce & Retail: Understanding customer behavior, inventory management, and personalized recommendations.
 *Healthcare: Analyzing patient data, clinical trials, and genomic sequences.
+
+
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/c0e0c334-5b3c-42da-a83a-2f71819d33cd)
